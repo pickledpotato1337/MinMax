@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinMaxGame", "MinMaxGame\MinMaxGame.csproj", "{8D6E91F0-58EC-46CB-B1D2-FA8C71913BD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D6E91F0-58EC-46CB-B1D2-FA8C71913BD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D6E91F0-58EC-46CB-B1D2-FA8C71913BD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D6E91F0-58EC-46CB-B1D2-FA8C71913BD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D6E91F0-58EC-46CB-B1D2-FA8C71913BD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54AFC4CB-5884-416D-B8BF-6FE25E72A7BC}
+	EndGlobalSection
+EndGlobal
