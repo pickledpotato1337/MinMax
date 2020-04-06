@@ -352,7 +352,7 @@ namespace MinMaxGame
                     if (parent.NextIndicator.IsInitalted == false)
                     {
                         parent.NextIndicator.IsInitalted = true;
-                        parent.NextIndicator.ChildIndex = parent.Children.IndexOf(element);
+                        parent.NextIndicator.ChildIndex = parent.Children.IndexOf(currentNode);
                         parent.NextIndicator.Stepsreq = element.Level;
                     }
 
